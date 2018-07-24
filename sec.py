@@ -60,7 +60,7 @@ for symbol in soup.find_all('td', class_= 'js-td--ticker'):
             CompanyNameList.append(company_name)
             TickerList.append(ticker)
     except:
-        print('Had some fucked up hero ticker: ',symbol)
+        print('Investigating :',company_name)
         pass
 
 lower = [x.lower() for x in CompanyNameList]
