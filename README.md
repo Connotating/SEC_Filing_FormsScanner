@@ -4,8 +4,7 @@ This application monitors SEC Filings and can alert users with valuable real-tim
 
 DISCLAIMER: This is strictly for informational purposes, seriously; DO NOT use this application alone as due diligence for investing money.
 
- INSTALLING:
- This application was written in python 3, you will of course need to install python3 as well as the dependancies before continuing
+ INSTALLING: Clone this repo
 
  Running the Install.py will generate 2 empty txt files for logging alerts. The current spreadsheet is a great starting point but feel free to add more stock tickers.
 
