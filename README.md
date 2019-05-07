@@ -2,7 +2,7 @@
 
 This application monitors SEC Filings and can alert users with valuable real-time information. This information ranges from when companies are delisted, when large amounts of shares are bought or granted by Officers of the company, 10-Q filings and other events.
 
-DISCLAIMER: This is strictly for informational purposes, seriously; do not use this application alone as due diligence for investing money.
+DISCLAIMER: This is strictly for informational purposes, seriously; DO NOT use this application alone as due diligence for investing money.
 
  INSTALLING:
  This application was written in python 3, you will of course need to install python3 as well as the dependancies before continuing
