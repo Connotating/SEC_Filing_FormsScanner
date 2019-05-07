@@ -1,6 +1,6 @@
 
 
-This application monitors SEC Filings and can alert users with valuable real-time information. This information ranges from when companies are delisted, when large amounts of shares are bought or granted by Officers of the company, and other events.
+This application monitors SEC Filings and can alert users with valuable real-time information. This information ranges from when companies are delisted, when large amounts of shares are bought or granted by Officers of the company, 10-Q filings and other events.
 
 DISCLAIMER: This is strictly for informational purposes, seriously; do not use this application alone as due diligence for investing money.
 
